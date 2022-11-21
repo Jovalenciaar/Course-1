@@ -1,0 +1,6 @@
+pesos = input("Cuantos pesos tienes": )
+pesos = float(pesos)
+dolares = 4000
+dolares = pesos / dolares
+dolares = str(dolares)
+print = (" Tienes " + dolares + "dolares")
